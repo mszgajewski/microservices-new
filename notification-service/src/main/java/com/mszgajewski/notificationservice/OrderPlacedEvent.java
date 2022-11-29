@@ -1,4 +1,4 @@
-package com.mszgajewski.inventoryservice;
+package com.mszgajewski.notificationservice;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.mszgajewski.discoveryserver;
+package com.mszgajewski.apigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
