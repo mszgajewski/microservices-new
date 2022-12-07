@@ -1,14 +1,13 @@
-package com.mszgajewski.productmicroservice.service;
+package com.mszgajewski.productservice.service;
 
-import com.mszgajewski.productmicroservice.dto.ProductRequest;
-import com.mszgajewski.productmicroservice.dto.ProductResponse;
-import com.mszgajewski.productmicroservice.model.Product;
-import com.mszgajewski.productmicroservice.repository.ProductRepository;
+import com.mszgajewski.productservice.dto.ProductRequest;
+import com.mszgajewski.productservice.dto.ProductResponse;
+import com.mszgajewski.productservice.model.Product;
+import com.mszgajewski.productservice.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Service

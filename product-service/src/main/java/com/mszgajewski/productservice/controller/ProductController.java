@@ -1,8 +1,8 @@
-package com.mszgajewski.productmicroservice.controller;
+package com.mszgajewski.productservice.controller;
 
-import com.mszgajewski.productmicroservice.dto.ProductRequest;
-import com.mszgajewski.productmicroservice.dto.ProductResponse;
-import com.mszgajewski.productmicroservice.service.ProductService;
+import com.mszgajewski.productservice.dto.ProductRequest;
+import com.mszgajewski.productservice.dto.ProductResponse;
+import com.mszgajewski.productservice.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
